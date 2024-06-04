@@ -9,7 +9,7 @@ const Testimonial = () => {
                     {/* Heading  */}
                     <h1 className=' text-center text-3xl font-bold text-black' >Testimonial</h1>
                     {/* para  */}
-                    <h2 className=' text-center text-2xl font-semibold mb-10' >What our <span className=' text-pink-500'>customers</span> are saying</h2>
+                    <h2 className=' text-center text-2xl font-semibold mb-10' >What our <span className=' text-green-500'>customers</span> are saying</h2>
 
                     <div className="flex flex-wrap -m-4">
                         {/* Testimonial 1 */}

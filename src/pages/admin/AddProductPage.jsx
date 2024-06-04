@@ -8,34 +8,34 @@ import Loader from "../../components/loader/Loader";
 
 const categoryList = [
     {
-        name: 'arduino'
+        name: 'Cairo'
     },
     {
         name: 'boards'
     },
     {
-        name: 'capacitor'
+        name: 'Sharqeyya'
     },
     {
-        name: 'IC'
+        name: 'Alexandria'
     },
     {
-        name: 'microcontrollers'
+        name: 'Tanta'
     },
     {
-        name: 'Multimeter'
+        name: 'Kafr al-Shaykh'
     },
     {
-        name: 'rasbperry pi'
+        name: 'Humaythara'
     },
     {
         name: 'Resistance/indutance'
     },
     {
-        name: 'tools'
+        name: 'Minya'
     },
     {
-        name: 'transitors'
+        name: 'sightseeing'
     },
 ]
 

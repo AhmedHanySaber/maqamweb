@@ -18,7 +18,7 @@ const UserDashboard = () => {
                 {/* Top  */}
                 <div className="top ">
                     {/* main  */}
-                    <div className=" bg-blue-50 py-5 rounded-xl border border-blue-100">
+                    <div className=" bg-green-50 py-5 rounded-xl border border-green-100">
                         {/* image  */}
                         <div className="flex justify-center">
                             <img src="https://cdn-icons-png.flaticon.com/128/2202/2202112.png" alt="" />

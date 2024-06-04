@@ -66,7 +66,7 @@ const Navbar = () => {
         </ul>
     )
     return (
-        <nav className="bg-blue-600 sticky top-0">
+        <nav className="bg-green-600 sticky top-0">
             {/* main  */}
             <div className="lg:flex lg:justify-between items-center py-3 lg:px-3 ">
                 {/* left  */}
@@ -75,7 +75,7 @@ const Navbar = () => {
                    
                       
                    
-                    <h2 className=" font-bold text-white text-2xl text-center">Modern Electroincs</h2>
+                    <h2 className=" font-bold text-white text-2xl text-center">MAQAM</h2>
                        
                     </Link>
                 </div>

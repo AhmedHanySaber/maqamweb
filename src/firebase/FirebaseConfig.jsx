@@ -4,13 +4,12 @@ import { getFirestore } from 'firebase/firestore';
 import { getAuth } from 'firebase/auth';
 // Import the functions you need from the SDKs you need
 const firebaseConfig = {
-  apiKey: "AIzaSyDtvuazlrNhgsHs2bI-6Pop_p2QjsNtkWE",
-  authDomain: "modernelcctroincs.firebaseapp.com",
-  projectId: "modernelcctroincs",
-  storageBucket: "modernelcctroincs.appspot.com",
-  messagingSenderId: "814326765605",
-  appId: "1:814326765605:web:6a76d38c5698a680b0c7cc",
-  measurementId: "G-179K60ZJCC"
+  apiKey: "AIzaSyBCAq2h7hFXAYPJMo1dZ0oGzTIgiwKcISg",
+  authDomain: "maqamweb-b7853.firebaseapp.com",
+  projectId: "maqamweb-b7853",
+  storageBucket: "maqamweb-b7853.appspot.com",
+  messagingSenderId: "672887230406",
+  appId: "1:672887230406:web:9e97e97ff945089959ecc7"
 };
 
 // Initialize Firebase
